@@ -1,0 +1,83 @@
+<h1>Buscar Personagem</h1>
+
+<p>Escolha um ID de 1 a 44</p>
+<input type="text" id="searchInput"/>
+<button onclick="searchCharacter()">Buscar</button>
+
+<h1 id="nameFighter">...</h1>
+<p>
+  <span id="nameFighter"></span>
+</p>
+
+<p>
+  Gender:
+  <span id="genderFighter"></span>
+</p>
+
+<p>
+  Race:
+  <span id="nameRace"></span>
+</p>
+
+<p>
+  Base Power:
+  <span id="ki"></span>
+</p>
+
+<p>
+  Max Power:
+  <span id="maxKi"></span>
+</p>
+
+<img src="" id="imgFighter">
+
+<script>
+  async function searchCharacter() {
+    const searchTerm = document.getElementById('searchInput').value;
+    const url = `https://dragonball-api.com/api/characters/${searchTerm}`;
+
+    try {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`Response status: ${response.status}`);
+      }
+
+      const json = await response.json();
+
+      document.getElementById("genderFighter").innerText = json.gender;
+      document.getElementById("nameFighter").innerText = json.name;
+      document.getElementById("nameRace").innerText = json.race;
+      document.getElementById("maxKi").innerText = json.maxKi;
+      document.getElementById("ki").innerText = json.ki;
+      document.getElementById("imgFighter").src = json.image;
+
+    } catch (error) {
+      console.error(error.message);
+    }
+  }
+
+  
+  async function getData() {
+    const url = "https://dragonball-api.com/api/characters/18"; // Exemplo com id fixo 18
+    try {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`Response status: ${response.status}`);
+      }
+
+      const json = await response.json();
+
+      document.getElementById("genderFighter").innerText = json.gender;
+      document.getElementById("nameFighter").innerText = json.name;
+      document.getElementById("nameRace").innerText = json.race;
+      document.getElementById("maxKi").innerText = json.maxKi;
+      document.getElementById("ki").innerText = json.ki;
+      document.getElementById("imgFighter").src = json.image;
+
+    } catch (error) {
+      console.error(error.message);
+    }
+  }
+
+  getData(); // Executa a função para buscar os dados do personagem com ID 18 ao carregar a página
+</script>
