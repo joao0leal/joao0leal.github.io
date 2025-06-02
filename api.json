@@ -2,27 +2,27 @@
     "categorias": [
       {
         "nome": "Salgados",
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://irp.cdn-website.com/33406c6e/dms3rep/multi/margem+de+lucro+dos+salgados.jpg"
       },
       {
         "nome": "Doces",
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/bolo-churros-decorado.jpg"
       },
       {
         "nome": "Lanches",
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://static.wixstatic.com/media/8c020d_3fff3e552b334aad900f959d9376b634~mv2.jpg/v1/fill/w_640,h_396,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8c020d_3fff3e552b334aad900f959d9376b634~mv2.jpg"
       },
       {
         "nome": "Trufas",
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/faeedb796d309b6d53f86d91911cec00.jpg"
       },
       {
         "nome": "Picolés",
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-32WTR5b_tJp8jXQnPhSGQYqXpcgMFZNGQ&s"
       },
       {
         "nome": "Refrigerantes",
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://gironews.com/wp-content/uploads/gironews-antigo/destaques/noticia-7908-1.jpg"
       }
     ],
     "produtos": [
