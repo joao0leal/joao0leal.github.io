@@ -1,0 +1,48 @@
+{
+    "categorias": [
+      {
+        "nome": "Salgados",
+        "imagem": "https://via.placeholder.com/128"
+      },
+      {
+        "nome": "Doces",
+        "imagem": "https://via.placeholder.com/128"
+      },
+      {
+        "nome": "Lanches",
+        "imagem": "https://via.placeholder.com/128"
+      },
+      {
+        "nome": "Trufas",
+        "imagem": "https://via.placeholder.com/128"
+      },
+      {
+        "nome": "Picolés",
+        "imagem": "https://via.placeholder.com/128"
+      },
+      {
+        "nome": "Refrigerantes",
+        "imagem": "https://via.placeholder.com/128"
+      }
+    ],
+    "produtos": [
+      {
+        "id": 11,
+        "nome": "Coxinha",
+        "preco": 5.00,
+        "descricao": "Deliciosa coxinha com recheio de frango temperado.",
+        "imagem": "https://salgadosparavender.com.br/wp-content/uploads/2024/05/coxinha-de-frango-com-catupiry.webp",
+        "categoria": "Salgados"
+      },
+      {
+        "id": 12,
+        "nome": "Brigadeiro",
+        "preco": 2.50,
+        "descricao": "Clássico docinho brasileiro com granulado.",
+        "imagem": "https://www.mexidodeideias.com.br/wp-content/uploads/2014/02/Brigadeiro-de-cafe-com-cream-cheese.jpg",
+        "categoria": "Doces"
+      }
+      
+    ]
+  }
+  
