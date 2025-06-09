@@ -1,0 +1,148 @@
+[
+    {
+      "titulo": "A República",
+      "autor": "Platão",
+      "imagem": "https://via.placeholder.com/120x180?text=A+República"
+    },
+    {
+      "titulo": "O Príncipe",
+      "autor": "Maquiavel",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Príncipe"
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "imagem": "https://via.placeholder.com/120x180?text=1984"
+    },
+    {
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "imagem": "https://via.placeholder.com/120x180?text=Dom+Quixote"
+    },
+    {
+      "titulo": "Crime e Castigo",
+      "autor": "Fiódor Dostoiévski",
+      "imagem": "https://via.placeholder.com/120x180?text=Crime+e+Castigo"
+    },
+    {
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "imagem": "https://via.placeholder.com/120x180?text=Orgulho+e+Preconceito"
+    },
+    {
+      "titulo": "O Contrato Social",
+      "autor": "Jean-Jacques Rousseau",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Contrato+Social"
+    },
+    {
+      "titulo": "A Arte da Guerra",
+      "autor": "Sun Tzu",
+      "imagem": "https://via.placeholder.com/120x180?text=A+Arte+da+Guerra"
+    },
+    {
+      "titulo": "O Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Apanhador+no+Campo+de+Centeio"
+    },
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Senhor+dos+Anéis"
+    },
+    {
+      "titulo": "Ensaio sobre a Cegueira",
+      "autor": "José Saramago",
+      "imagem": "https://via.placeholder.com/120x180?text=Ensaio+sobre+a+Cegueira"
+    },
+    {
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "imagem": "https://via.placeholder.com/120x180?text=A+Metamorfose"
+    },
+    {
+      "titulo": "O Grande Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Grande+Gatsby"
+    },
+    {
+      "titulo": "Os Irmãos Karamazov",
+      "autor": "Fiódor Dostoiévski",
+      "imagem": "https://via.placeholder.com/120x180?text=Os+Irmãos+Karamazov"
+    },
+    {
+      "titulo": "A Divina Comédia",
+      "autor": "Dante Alighieri",
+      "imagem": "https://via.placeholder.com/120x180?text=A+Divina+Comédia"
+    },
+    {
+      "titulo": "O Estrangeiro",
+      "autor": "Albert Camus",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Estrangeiro"
+    },
+    {
+      "titulo": "O Processo",
+      "autor": "Franz Kafka",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Processo"
+    },
+    {
+      "titulo": "Ulisses",
+      "autor": "James Joyce",
+      "imagem": "https://via.placeholder.com/120x180?text=Ulisses"
+    },
+    {
+      "titulo": "A Montanha Mágica",
+      "autor": "Thomas Mann",
+      "imagem": "https://via.placeholder.com/120x180?text=A+Montanha+Mágica"
+    },
+    {
+      "titulo": "O Lobo da Estepe",
+      "autor": "Hermann Hesse",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Lobo+da+Estepe"
+    },
+    {
+      "titulo": "O Idiota",
+      "autor": "Fiódor Dostoiévski",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Idiota"
+    },
+    {
+      "titulo": "O Nome da Rosa",
+      "autor": "Umberto Eco",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Nome+da+Rosa"
+    },
+    {
+      "titulo": "A Ilíada",
+      "autor": "Homero",
+      "imagem": "https://via.placeholder.com/120x180?text=A+Ilíada"
+    },
+    {
+      "titulo": "A Odisseia",
+      "autor": "Homero",
+      "imagem": "https://via.placeholder.com/120x180?text=A+Odisseia"
+    },
+    {
+      "titulo": "Guerra e Paz",
+      "autor": "Leon Tolstói",
+      "imagem": "https://via.placeholder.com/120x180?text=Guerra+e+Paz"
+    },
+    {
+      "titulo": "Anna Karênina",
+      "autor": "Leon Tolstói",
+      "imagem": "https://via.placeholder.com/120x180?text=Anna+Karênina"
+    },
+    {
+      "titulo": "O Silmarillion",
+      "autor": "J.R.R. Tolkien",
+      "imagem": "https://via.placeholder.com/120x180?text=O+Silmarillion"
+    },
+    {
+      "titulo": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "imagem": "https://via.placeholder.com/120x180?text=Fahrenheit+451"
+    },
+    {
+      "titulo": "Admirável Mundo Novo",
+      "autor": "Aldous Huxley",
+      "imagem": "https://via.placeholder.com/120x180?text=Admirável+Mundo+Novo"
+    }
+  ]
+  
